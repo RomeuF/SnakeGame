@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)
+<img alt="GitHub" src="https://img.shields.io/github/license/RomeuF/SnakeGame?style=plastic">
 
 **`Documentation`** |
 ------------------- |
